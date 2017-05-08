@@ -1,1 +1,1 @@
-# cordova-plugin-ios-no-export-compliance
+# cordova-plugin-no-export-compliance-ios
